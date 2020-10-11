@@ -11,10 +11,6 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 So there are four shows :  
 
 * The first one is "The Late Show with Stephen Colbert". It's really good ! I learned some fun facts, but nothing important about actuality. There is a good balance with jokes and serious talk.  
@@ -27,6 +23,9 @@ So there are four shows :
 
 In conclusion, my favorite show is with Stephen Colbert because its easily watchable 5 to 10 minutes and there are some constructive elements put with a lot of humor.  
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
 
 Distill is a publication format for scientific and technical writing, native to the web.
 
