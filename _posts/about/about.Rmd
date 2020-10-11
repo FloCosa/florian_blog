@@ -6,6 +6,6 @@ date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-My name is Florian, Im 20 years old and study biology at university of UMons. Im studying english since the 5 grade in primary school. 
+My name is Florian, I'm 20 years old and study biology at university of UMons. I started studying English in 2010 but did a break from 2018 to 2020. I pass a lot of time on the internet so English is important for me.
 
 - Florian Cosa, Nicolas DEVILEZ, English for science and academic year 2020-2021
