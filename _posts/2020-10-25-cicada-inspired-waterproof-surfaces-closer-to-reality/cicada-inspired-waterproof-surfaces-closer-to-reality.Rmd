@@ -1,0 +1,48 @@
+---
+title: "Cicada-inspired waterproof surfaces closer to reality"
+description: |
+  First article found on ScienceDaily 
+author:
+  - name: Florian Cosa
+    url: {}
+date: 10-25-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# I - SOURCE  
+
+* [Source of the article](https://www.sciencedaily.com/releases/2020/10/201022112620.htm) (October 22, 2020)  
+* Word count: 549 words  
+
+## II - VOCABULARY  
+
+| Word from the text | Synonym/definition in English | French translation |
+|-|-|-|
+| cicada | a large insect, maturing in cycles of 5 to 17 years, the adult male of which produces a prolonged high-pitched, shrill sound. | cigale |
+| wings | either of the two limbs or similar parts of birds, insects, and bats that are specially designed for enabling flight. | ailes |
+| repel | to resist the absorption of | repousser |
+| nail polish | a lacquer for painting the fingernails or toenails. | vernis à ongle |
+| template | a pattern or mold to help measure or to help in making copies of a thing. | modèle |
+| nanostructures | a structure that has dimensions of only a few nanometres | nanostructures |
+| coating | a layer that covers a surface | revêtement |
+
+### III - ANALYSIS  
+
+| Researchers? | University of Illinois at Urbana-Champaign |
+|-|-|
+| Published in? when (if mentioned)? | Nano Letters (14 October 2020) |
+| General topic | The ability of insects wings to reject water and bacteria inspires future materials. |
+| Procedure/what was examined | Nanostructure of wings can be repicated with templates. They use nail polish and rubbing alcohol. |
+| Conclusions/discovery | With this nanostructure we can create materials with antibacterial and waterproof properties. This can be used from aircraft to medicine ! |
+| Remaining questions | / |
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

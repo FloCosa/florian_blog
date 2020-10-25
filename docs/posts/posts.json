@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-10-25-cicada-inspired-waterproof-surfaces-closer-to-reality/",
+    "title": "Cicada-inspired waterproof surfaces closer to reality",
+    "description": "First article found on ScienceDaily",
+    "author": [
+      {
+        "name": "Florian Cosa",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-25",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-25T20:55:57+01:00"
+  },
+  {
     "path": "posts/2020-10-11-american-tv-shows/",
     "title": "American Tv Shows",
     "description": "I'm going to explain here, which Tv shows I prefer and why between Steven Colbert, Trevor Noah, John Oliver, Jimmy Fallon.",
@@ -12,7 +27,7 @@
     "date": "2020-10-11",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-11T19:27:44+02:00"
+    "last_modified": "2020-10-25T18:58:44+01:00"
   },
   {
     "path": "posts/about/",
