@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/FloCosa/florian_blog
-base_url: FloCosa.github.io/florian_blog/
+base_url: https://FloCosa.github.io/florian_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
