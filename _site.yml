@@ -15,7 +15,7 @@ base_url: FloCosa.github.io/florian_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      #disqus: 
+      disqus: florian-blog
 output:
   distill::distill_article:
     css: style.css
