@@ -1,0 +1,40 @@
+---
+title: "graphic_description"
+description: Short article about an urchin graph.
+author:
+  - name: Florian Cosa
+    url: {}
+date: 11-18-2020
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - Data Sciences I
+---
+
+```{r set, include=FALSE}
+SciViews::R
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r importation}
+urchin <- read("urchin_bio", package = "data.io")
+```
+
+I'm going to take the sea urchin dataset because its the one that speaks the most to me. It contains a lots of information about sea urchins such as their weight, height,sex, etc.
+
+```{r graphe}
+chart(urchin, spines ~ solid_parts %col=% origin) +
+  geom_point(na.rm = TRUE)
+```  
+  
+This graph shows the proportion of urchin spines by all the solid parts of the animal. We can therefore see, thanks to the legend, that wild urchins will generally have larger and more numerous spines than those raised in farms. The urchin of farms will sometimes have much larger spines certainly because they live longer but we can see in general that they will less develop their spines because there is no danger or predators.
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
