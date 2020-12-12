@@ -1,0 +1,50 @@
+---
+title: "Reduce insecticide spraying by using ant pheromones to catch crop pests"
+description: |
+  Second article found on phys.org
+author:
+  - name: Florian Cosa
+    url: {}
+date: 12-12-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# I - SOURCE  
+
+* [Source of the article](https://phys.org/news/2020-08-insecticide-ant-pheromones-crop-pests.html) (August 27, 2020)  
+* Word count: 426 words  
+
+## II - VOCABULARY  
+
+| Word from the text | Synonym/definition in English | French translation |
+|-|-|-|
+| ant | a small insect typically having a sting and living in a complex social colony with one or more breeding queens. | fourmis |
+| crop | a cultivated plant that is grown on a large scale commercially, especially a cereal, fruit, or vegetable. | culture |
+| pest | a destructive insect or other animal that attacks crops, food, livestock, etc. |insecte nuisible |
+| bait | food (here pheromones) placed on a hook or in a net, trap, or fishing area to entice fish or other animals as prey. | appât |
+| to soak up | to take in (liquid) | absorber |
+| pesticide | Chemical used against animal and plant pests of crops. | pesticide |
+| framework | an essential supporting structure of a building, vehicle, or object. | structure |
+| pheromone | Chemical molecule produced by an organism, which induces specific behavior in another member of the same species. | phéromone |
+| trap | a device or enclosure designed to catch and retain animals, typically by allowing entry but not exit or by catching hold of a part of the body. | piège |
+
+### III - ANALYSIS  
+
+| Researchers? | Universities of Bath and Sussex |
+|-|-|
+| Published in? when (if mentioned)? | Dalton Transactions (21 Jul 2020) |
+| General topic | The use of ant pheromones instead of traditional pesticides |
+| Procedure/what was examined | The pheromones are placed in MOFs (metal-organic frameworks) to be released slowly. They can more easily attract leaf-cutting ants, which cause great damage to Brazilian crops, than traditional pesticides because they have become resistant to them. |
+| Conclusions/discovery | Using pheromones instead of pesticides is more environmentally friendly because you can target the pest and not kill other animals. In addition, pheromones are more durable over time and therefore less waste and contamination. |
+| Remaining questions | / |
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
