@@ -1,0 +1,49 @@
+---
+title: "Next-generation drones could learn from bumblebees' amazing flight"
+description: |
+  Fourth article found on phys.org
+author:
+  - name: Florian Cosa
+    url: {}
+date: 12-13-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# I - SOURCE  
+
+* [Source of the article](https://phys.org/news/2020-11-next-generation-drones-bumblebees-amazing-flight.html) (November 24, 2020)  
+* Word count: 496 words  
+
+## II - VOCABULARY  
+
+| Word from the text | Synonym/definition in English | French translation |
+|-|-|-|
+| bumblebee | a large hairy bee with a loud hum, living in small colonies in holes underground. | bourdon |
+| flight | the action or process of flying through the air. | vol |
+| wingspan | the maximum extent across the wings of an aircraft or of a bird or other flying animal, measured from tip to tip. | envergure |
+| dexterous | showing or having skill, especially with the hands. | agile |
+| skilfully | with skill or dexterity; cleverly. | habilement |
+| behavior | the way in which one acts or conducts oneself, especially toward others. | comportement |
+| awareness | knowledge or perception of a situation or fact. | conscience |
+| gap | a break or hole in an object or between two objects. | écart |
+
+### III - ANALYSIS  
+
+| Researchers? | University of New South Wales Canberra |
+|-|-|
+| Published in? when (if mentioned)? | PNAS (23 November 2020) |
+| General topic | We are talking here about the skill and precision of the bumblebee's flight to inspire us to create effective drones. |
+| Procedure/what was examined | Bumblebees are tested and they can fly through holes of different sizes and even move sideways efficiently. We discovered in them a sort of spatial awareness of their body and a perception of depth like us. |
+| Conclusions/discovery | We can therefore be inspired by them to create the next generations of drones that can be autonomous and do complex actions as insects manage to do. |
+| Remaining questions | / |
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-12-13-next-generation-drones-could-learn-from-bumblebees-amazing-flight/",
+    "title": "Next-generation drones could learn from bumblebees' amazing flight",
+    "description": "Fourth article found on phys.org",
+    "author": [
+      {
+        "name": "Florian Cosa",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-13",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-13T19:10:23+01:00"
+  },
+  {
     "path": "posts/2020-12-12-reduce-insecticide-spraying-by-using-ant-pheromones-to-catch-crop-pests/",
     "title": "Reduce insecticide spraying by using ant pheromones to catch crop pests",
     "description": "Second article found on phys.org",
@@ -27,7 +42,7 @@
     "date": "2020-12-12",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-12-13T03:06:47+01:00"
+    "last_modified": "2020-12-13T18:30:30+01:00"
   },
   {
     "path": "posts/2020-11-18-graphicdescription/",

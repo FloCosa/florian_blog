@@ -28,7 +28,7 @@ output:
 | lifespan | the length of time for which a person or animal lives or a thing functions. | durée de vie |
 | hind wings | either of the two back wings of a four-winged insect. | ailes postérieures |
 | hardened  | having become or been made hard or harder. | endurci |
-| wing cases  | Hard and horny wing of beetle insects, which covers the lower wing like a case. | élytre |
+| wing cases | Hard and horny wing of beetle insects, which covers the lower wing like a case. | élytre |
 
 ### III - ANALYSIS  
 
