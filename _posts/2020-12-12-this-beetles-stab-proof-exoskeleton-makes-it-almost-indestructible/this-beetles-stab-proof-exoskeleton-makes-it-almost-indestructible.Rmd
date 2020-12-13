@@ -1,0 +1,50 @@
+---
+title: "This Beetle's Stab-Proof Exoskeleton Makes It Almost Indestructible"
+description: |
+  Third article found on Scientific American
+author:
+  - name: Florian Cosa
+    url: {}
+date: 12-12-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# I - SOURCE  
+
+* [Source of the article](https://www.scientificamerican.com/article/this-beetles-stab-proof-exoskeleton-makes-it-almost-indestructible/) (October 23, 2020)  
+* Word count: 473 words  
+
+## II - VOCABULARY  
+
+| Word from the text | Synonym/definition in English | French translation |
+|-|-|-|
+| beetle | an insect of an order distinguished by forewings typically modified into hard wing cases (elytra) that cover and protect the hind wings and abdomen. | scarabée |
+| stab | a thrust with a knife or other pointed weapon. | poignarder |
+| exoskeleton | a rigid external covering for the body in some invertebrate animals, especially arthropods, providing both support and protection. | exosquelette |
+| rugged | terrain having a broken, rocky, and uneven surface. | rugueux |
+| toughness | the state of being strong enough to withstand adverse conditions or rough handling. | dureté |
+| lifespan | the length of time for which a person or animal lives or a thing functions. | durée de vie |
+| hind wings | either of the two back wings of a four-winged insect. | ailes postérieures |
+| hardened  | having become or been made hard or harder. | endurci |
+| wing cases  | Hard and horny wing of beetle insects, which covers the lower wing like a case. | élytre |
+
+### III - ANALYSIS  
+
+| Researchers? | University of California |
+|-|-|
+| Published in? when (if mentioned)? | Nature magazine (22 October 2020) |
+| General topic | The beetle's great resistance to supporting a weight and the wing cases puzzle system may be of interest to material engineers. |
+| Procedure/what was examined | They used x-rays to be able to reconstruct the structure in 3D and we could see that the wing cases fit together like a puzzle and unite in layers and can like that withstand great pressure. |
+| Conclusions/discovery | We could create designs from this beetle in combinations of materials that could be very useful in aerospace engineering such as metal and carbon. |
+| Remaining questions | / |
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
