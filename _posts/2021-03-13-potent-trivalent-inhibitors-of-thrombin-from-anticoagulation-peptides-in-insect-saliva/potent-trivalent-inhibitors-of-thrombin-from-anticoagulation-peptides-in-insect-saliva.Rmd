@@ -1,0 +1,47 @@
+---
+title: "Potent trivalent inhibitors of thrombin from anticoagulation peptides in insect saliva"
+description: |
+  Fifth article found on phys.org
+author:
+  - name: Florian Cosa
+    url: {}
+date: 03-13-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# I - SOURCE  
+
+* [Source of the article](https://phys.org/news/2021-01-potent-trivalent-inhibitors-thrombin-anticoagulation.html) (January 29, 2021)  
+* Word count: 444 words  
+
+## II - VOCABULARY  
+
+| Word from the text | Synonym/definition in English | French translation |
+|-|-|-|
+| thrombosis | Thrombosis occurs when blood clots block your blood vessels. | thrombose |
+| wound | an injury to living tissue caused by a cut, blow, or other impact, typically one in which the skin is cut or broken. |  plaie|
+| to clog  | to become blocked or choked up. | obstruer |
+| leeches | Invertebratesa bloodsucking worm once used widely for letting out blood in medical treatments. | sangsues |
+| to span  | the full extent, stretch, or reach of something | s'étendre |
+| shrink | to contract or lessen in size | rétrécir |
+
+### III - ANALYSIS  
+
+| Researchers? | Richard J. Payne from the University of Sydney in collaboration with an international team of scientists |
+|-|-|
+| Published in? when (if mentioned)? | Potent Trivalent Inhibitors of Thrombin through Hybridization of Salivary Sulfopeptides from Hematophagous Arthropods (20 Dec 2020) |
+| General topic | use thrombin from insects' saliva to cure thrombosis cases |
+| Procedure/what was examined | They want to study the saliva of some insects that these insects use as an anticoagulant to treat more efficiency thrombin and his consequences. There are three inhibitors that blocks different sites and these three patched together from different species (mosquito, tsetse fly and a tick) can be used to fully block the thrombin |
+| Conclusions/discovery | It worked on a mouse and they hope that can be an useful anticoagulant and be used to discover other peptide-based drugs |
+| Remaining questions | / |
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
