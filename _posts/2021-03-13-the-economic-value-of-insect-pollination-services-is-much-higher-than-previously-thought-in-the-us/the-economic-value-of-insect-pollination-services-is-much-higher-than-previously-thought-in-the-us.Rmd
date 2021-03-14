@@ -1,0 +1,49 @@
+---
+title: "The economic value of insect pollination services is much higher than previously thought in the US"
+description: |
+  Sixth article found on phys.org
+author:
+  - name: Florian Cosa
+    url: {}
+date: 03-13-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# I - SOURCE  
+
+* [Source of the article](https://phys.org/news/2021-02-economic-insect-pollination-higher-previously.html) (February 3, 2021)  
+* Word count: 541 words  
+
+## II - VOCABULARY  
+
+| Word from the text | Synonym/definition in English | French translation |
+|-|-|-|
+| forage | food for horses or cattle, esp. hay or straw | fourrage |
+| underpin | to give corroboration, strength, or support to | étayer |
+| welfare |  health, happiness, prosperity, and well-being in general | bien-être |
+| beekeeping | keeping bees for their honey | apiculture |
+| reliant | dependent on someone or something | dépendant |
+| sustainable | capable of being maintained at a steady level without exhausting natural resources or causing severe ecological damage | durable |
+| to thrive | to grow strongly and vigorously | prospérer |
+
+
+### III - ANALYSIS  
+
+| Researchers? | University of Pittsburgh and Penn State University |
+|-|-|
+| Published in? when (if mentioned)? | Economic Dependence and Vulnerability of United States Agricultural Sector on Insect-Mediated Pollination Service (January 26, 2021) |
+| General topic | The economic impact of pollinating insects in the USA. |
+| Procedure/what was examined | They discovered that insects have a big role in the economy and also in our nutrition. There is also a correlation between poverty and pollinator scarcity in some areas and that the wild pollinator population is declining. |
+| Conclusions/discovery | We must again restore a favorable habitat for its pollinators with compatible fields that are also beneficial to our health like fruits, vegetables and nuts. As proof some companies are already in the process of renting bee hives to pollinate their crops. |
+| Remaining questions | / |
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
