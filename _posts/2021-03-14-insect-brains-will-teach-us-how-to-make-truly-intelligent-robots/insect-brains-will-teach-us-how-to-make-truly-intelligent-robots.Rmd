@@ -1,0 +1,47 @@
+---
+title: "Insect brains will teach us how to make truly intelligent robots"
+description: |
+  Seventh article found on NewScientist
+author:
+  - name: Florian Cosa
+    url: {}
+date: 03-14-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# I - SOURCE  
+
+* [Source of the article](https://www.newscientist.com/article/mg24933220-100-insect-brains-will-teach-us-how-to-make-truly-intelligent-robots/) (February 16, 2021)  
+* Word count: 639 words  
+
+## II - VOCABULARY  
+
+| Word from the text | Synonym/definition in English | French translation |
+|-|-|-|
+| strides | progress or development  | enjambées |
+| beck| a nod, wave, or other gesture or signal | signe |
+| way off | really far from the goal | vraiment loin |
+| leap | an abrupt change or increase | saut |
+| to tackle | to confront with a difficult proposition | aborder |
+| spin-out | turn a subsidiary into a new and separate company | délayer |
+
+### III - ANALYSIS  
+
+| Researchers? | James Marshall is at the University of Sheffield, UK, and is CSO of Opteran Technologies |
+|-|-|
+| Published in? when (if mentioned)? | In NewScientist issue 3322 (20 February 2021) |
+| General topic | Using the insect's brain to improve and revolutionize current AI |
+| Procedure/what was examined | Our current AI has reached a point where they can do a task perfectly with deep learning, but its too difficult for them to do very different actions. So if we use honeybee brain to reverse-engineering his operation and applied it to a drone it can be fully autonomous. |
+| Conclusions/discovery | We can now recreate with silicon a bee's brain and his capabilities. The reverse-engineered brains are only at their debut and could leap our technology to another level. |
+| Remaining questions | / |
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
