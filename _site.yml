@@ -9,28 +9,6 @@ navbar:
       href: "posts/meal/index.html"
     - text: "About Me"
       href: "posts/about/index.html"
-     - text: "Portfolio"
-      menu:
-        - text: "Introduction"
-          href: "posts/2021-04-18-intro/introduction.html"
-        - text: "Article 1 : Cicada inspired waterproof surfaces closer to reality"
-          href: "posts/2020-10-25-cicada-inspired-waterproof-surfaces-closer-to-reality/cicada-inspired-waterproof-surfaces-closer-to-reality.html"
-        - text: "Article 2 : Reduce insecticide spraying by using ant pheromones to catch crop pests"
-          href: "posts/2020-12-12-reduce-insecticide-spraying-by-using-ant-pheromones-to-catch-crop-pests/reduce-insecticide-spraying-by-using-ant-pheromones-to-catch-crop-pests.html"
-        - text: "Article 3 : This beetles stab proof exoskeleton makes it almost indestructible"
-          href: "posts/2020-12-12-this-beetles-stab-proof-exoskeleton-makes-it-almost-indestructible/this-beetles-stab-proof-exoskeleton-makes-it-almost-indestructible.html"
-        - text: "Article 4 : Next generation drones could learn from bumblebees amazing flight"
-          href: "posts/2020-12-13-next-generation-drones-could-learn-from-bumblebees-amazing-flight/next-generation-drones-could-learn-from-bumblebees-amazing-flight.html"
-        - text: "Article 5 : Potent trivalent inhibitors of thrombin from anticoagulation peptides in insect saliva"
-          href: "posts/2021-03-13-potent-trivalent-inhibitors-of-thrombin-from-anticoagulation-peptides-in-insect-saliva/potent-trivalent-inhibitors-of-thrombin-from-anticoagulation-peptides-in-insect-saliva.html"
-        - text: "Article 6 : The economic value of insect pollination services is much higher than previously thought in the us"
-          href: "posts/2021-03-13-the-economic-value-of-insect-pollination-services-is-much-higher-than-previously-thought-in-the-us/the-economic-value-of-insect-pollination-services-is-much-higher-than-previously-thought-in-the-us.html"
-        - text: "Article 7 : Insect brains will teach us how to make truly intelligent robots"
-          href: "posts/2021-03-14-insect-brains-will-teach-us-how-to-make-truly-intelligent-robots/insect-brains-will-teach-us-how-to-make-truly-intelligent-robots.html"
-        - text: "Conclusion"
-          href: "posts/2021-04-18-conclusion/conclusion.html"
-        - text: "Bibliography"
-          href: "posts/2021-04-18-bibliography/bibliography.html"
     - icon: fab fa-github
       href: https://github.com/FloCosa/florian_blog
 base_url: https://FloCosa.github.io/florian_blog/

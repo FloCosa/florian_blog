@@ -1,8 +1,38 @@
 ---
 title: "Florian's Blog"
 site: distill::distill_website
-listing: posts
+listing:
+  posts : 
+  - about
+  
+  - 2021-04-18-introduction
+  
+  - 2020-10-25-cicada-inspired-waterproof-surfaces-closer-to-reality
+  
+  - 2020-12-12-reduce-insecticide-spraying-by-using-ant-pheromones-to-catch-crop-pests
+  
+  - 2020-12-12-this-beetles-stab-proof-exoskeleton-makes-it-almost-indestructible
+  
+  - 2020-12-13-next-generation-drones-could-learn-from-bumblebees-amazing-flight
+  
+  - 2021-03-13-potent-trivalent-inhibitors-of-thrombin-from-anticoagulation-peptides-in-insect-saliva
+  
+  - 2021-03-13-the-economic-value-of-insect-pollination-services-is-much-higher-than-previously-thought-in-the-us
+  
+  - 2021-03-14-insect-brains-will-teach-us-how-to-make-truly-intelligent-robots
+  
+  - 2021-04-18-conclusion
+  
+  - 2021-04-18-bibliography
+  
+  - meal
+  
+  - 2020-11-18-graphicdescription
+  
+  - 2020-10-11-american-tv-shows
 ---
+
+![](images/Morpho_didius_Male_Dos.jpg)
 
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
