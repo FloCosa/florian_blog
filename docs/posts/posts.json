@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2021-03-14-insect-brains-will-teach-us-how-to-make-truly-intelligent-robots/",
+    "title": "Insect brains will teach us how to make truly intelligent robots",
+    "description": "Seventh article found on NewScientist",
+    "author": [
+      {
+        "name": "Florian Cosa",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-14",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-03-14T18:52:42+01:00"
+  },
+  {
     "path": "posts/2021-03-13-potent-trivalent-inhibitors-of-thrombin-from-anticoagulation-peptides-in-insect-saliva/",
     "title": "Potent trivalent inhibitors of thrombin from anticoagulation peptides in insect saliva",
     "description": "Fifth article found on phys.org",
@@ -28,21 +43,6 @@
     "categories": [],
     "preview": {},
     "last_modified": "2021-03-14T17:35:27+01:00"
-  },
-  {
-    "path": "posts/2021-03-14-insect-brains-will-teach-us-how-to-make-truly-intelligent-robots/",
-    "title": "Insect brains will teach us how to make truly intelligent robots",
-    "description": "Seventh article found on NewScientist",
-    "author": [
-      {
-        "name": "Florian Cosa",
-        "url": {}
-      }
-    ],
-    "date": "2021-03-14",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2021-03-14T18:52:42+01:00"
   },
   {
     "path": "posts/2020-12-13-next-generation-drones-could-learn-from-bumblebees-amazing-flight/",
