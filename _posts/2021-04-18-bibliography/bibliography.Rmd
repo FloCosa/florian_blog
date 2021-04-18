@@ -1,0 +1,35 @@
+---
+title: "Bibliography"
+description: |
+  Bibliography of the seven articles on my portfolio
+author:
+  - name: Florian Cosa
+    url: {}
+date: 04-18-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+* Article 1 : <https://www.sciencedaily.com/releases/2020/10/201022112620.htm> (10-25-2020)
+
+* Article 2 : <https://phys.org/news/2020-08-insecticide-ant-pheromones-crop-pests.html> (12-12-2020)
+
+* Article 3 : <https://www.scientificamerican.com/article/this-beetles-stab-proof-exoskeleton-makes-it-almost-indestructible/> (12-12-2020)
+
+* Article 4 : <https://phys.org/news/2020-11-next-generation-drones-bumblebees-amazing-flight.html> (12-13-2020)
+
+* Article 5 : <https://phys.org/news/2021-01-potent-trivalent-inhibitors-thrombin-anticoagulation.html> (03-13-2021)
+
+* Article 6 : <https://phys.org/news/2021-02-economic-insect-pollination-higher-previously.html> (03-13-2021)
+
+* Article 7 : <https://www.newscientist.com/article/mg24933220-100-insect-brains-will-teach-us-how-to-make-truly-intelligent-robots/> (03-14-2021)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

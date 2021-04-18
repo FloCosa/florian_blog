@@ -12,8 +12,6 @@ navbar:
     - icon: fab fa-github
       href: https://github.com/FloCosa/florian_blog
 base_url: https://FloCosa.github.io/florian_blog/
-    - text: "Portfolio"
-      href: "posts/Portfolio"
 collections:
     posts:
       share: [twitter, linkedin, facebook]

@@ -1,0 +1,23 @@
+---
+title: "Conclusion"
+description: |
+  My conclusion about my portfolio
+author:
+  - name: Florian Cosa
+    url: {}
+date: 04-18-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+I learned a lot with these articles and my research. We mostly used them to reproduce what they are doing so great, the nature is always ahead of us. I didn't think that the wings of a cicada repel water, that a beetle can be rolled over by a car and survived or that insects were so important in an economic way. I think that some ideas would be wonderful if shaped like the anticoagulant peptides as a drug or using the ant pheromones instead of insecticide to pollute less and eat healthier. There are a lot of domains were insects can have their utilities from materials to economy they are really something important in our life, we live on their side and we will develop our technology also thanks to them.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

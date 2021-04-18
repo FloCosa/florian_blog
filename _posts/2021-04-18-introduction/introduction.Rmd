@@ -1,0 +1,23 @@
+---
+title: "Introduction"
+description: |
+  An introduction for my portfolio
+author:
+  - name: Florian Cosa
+    url: {}
+date: 04-18-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Hello, my portfolio for the English course of this year is about the effects of insects on our society. Talking about insects was a pretty obvious choice for me, these are everywhere in our everyday life, there are over 1.3 million species and billions of individuals. The insects impact a lot on humanity; they scare some of us, they stung some other, they give us diseases, they destroy our crop, but they also pollinate our trees and flowers, they take care of dead wood and leaves, they produce that sweet honey and silk and also can be eaten by a lot of other species and us ;) To not lose anyone an insect or bug are animals with three pairs of legs and segmented in three parts: the head always with antennas and composed eyes, the thorax with two pairs of wings that can be modified in something else like wing cases and the abdomen. They don’t have lungs or gills, but a trachea and got an exoskeleton made of chitin. I will try to show in my portfolio that insects can be good and useful for us as they are bad when we do a barbecue in summer.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
