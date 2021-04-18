@@ -8,3 +8,4 @@ listing: posts
 #distill::create_post("my post") # use this fonction to create a new post
 ```
 
+![](images/Morpho_didius_Male_Dos.jpg)
