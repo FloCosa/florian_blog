@@ -1,5 +1,50 @@
 [
   {
+    "path": "posts/2021-04-18-bibliography/",
+    "title": "Bibliography",
+    "description": "Bibliography of the seven articles on my portfolio",
+    "author": [
+      {
+        "name": "Florian Cosa",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-18",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-04-18T20:26:42+02:00"
+  },
+  {
+    "path": "posts/2021-04-18-conclusion/",
+    "title": "Conclusion",
+    "description": "My conclusion about my portfolio",
+    "author": [
+      {
+        "name": "Florian Cosa",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-18",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-04-18T20:26:52+02:00"
+  },
+  {
+    "path": "posts/2021-04-18-introduction/",
+    "title": "Introduction",
+    "description": "An introduction for my portfolio",
+    "author": [
+      {
+        "name": "Florian Cosa",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-18",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-04-18T20:27:02+02:00"
+  },
+  {
     "path": "posts/2021-03-14-insect-brains-will-teach-us-how-to-make-truly-intelligent-robots/",
     "title": "Insect brains will teach us how to make truly intelligent robots",
     "description": "Seventh article found on NewScientist",
